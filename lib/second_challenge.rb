@@ -1,5 +1,4 @@
 def second_challenge
-g, you should have a hash that looks like this:
 
 epic_tragedy = {
    :montague => {
